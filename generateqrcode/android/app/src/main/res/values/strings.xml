@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Generate QRcode</string>
+    <string name="title_activity_main">Generate QRcode</string>
+    <string name="package_name">com.dhefex.generateqrcode</string>
+    <string name="custom_url_scheme">com.dhefex.generateqrcode</string>
+</resources>

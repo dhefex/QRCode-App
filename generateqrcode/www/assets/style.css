@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: lightgray;
+    min-height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+}
+
+.container{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    max-width: 400px;
+}
+
+.container input{
+    padding: 15px;
+    width: 90%;
+    border-radius: 15px;
+    border: none;
+}
+
+.container button{
+    padding: 15px;
+    margin: 20px;
+    width: 90%;
+    border-radius: 15px;
+    border: none;
+}
+
+
+.qrcodeContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+h1{
+    text-align: center;
+    margin: 20px;
+}
