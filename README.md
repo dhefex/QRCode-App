@@ -18,12 +18,12 @@ I developed a simple **QR code generator** focused on delivering a lightweight, 
 > This is the initial release (v1.0), with room for future improvements and new features.
 
 
-![Image about app](www/images/qrcodeapp.jpg)
+![Image about app](./generateqrcode/www/images/qrcodeapp.jpg)
 
-![Image about app](www/images/qrcode.jpg)
+![Image about app](./generateqrcode/www/images/qrcode.jpg)
 
 ## Download
 
-[**Download QR Code Generator v1.0 (APK)**](www/downloads/GenerateQRCode.apk)
+[**Download QR Code Generator v1.0 (APK)**](./generateqrcode/www/downloads/GenerateQRCode.apk)
 
 
