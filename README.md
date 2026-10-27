@@ -22,8 +22,6 @@ I developed a simple **QR code generator** focused on delivering a lightweight, 
 
 ![Image about app](./generateqrcode/www/images/qrcode.jpg)
 
-## Download
-
-[**Download QR Code Generator v1.0 (APK)**](./generateqrcode/www/downloads/GenerateQRCode.apk)
+[📥 Baixar GenerateQRCode.apk](https://github.com/dhefex/QRCode-App/raw/refs/heads/main/generateqrcode/www/downloads/GenerateQRCode.apk)
 
 
